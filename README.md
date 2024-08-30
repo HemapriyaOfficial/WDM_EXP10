@@ -34,4 +34,4 @@
 
 
 ### Result:
-The preprocessing techniques on Twitter data using Rapidminer is implemented successfully.
+Thus sentimental analysis for twitter data using Rapidminer is done successfully.
