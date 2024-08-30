@@ -27,4 +27,11 @@
 
 ### Output:
 
+
+![WhatsApp Image 2024-08-30 at 20 55 43_d65f0cd5](https://github.com/user-attachments/assets/bbc71b69-f27b-4a98-9f4c-f565b7557f90)
+![WhatsApp Image 2024-08-30 at 20 54 51_0d717959](https://github.com/user-attachments/assets/43a4e189-7edf-4d89-a6ac-e981e2d2eed6)
+
+
+
 ### Result:
+The preprocessing techniques on Twitter data using Rapidminer is implemented successfully.
